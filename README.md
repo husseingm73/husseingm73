@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @husseingm73
-- 👀 I’m interested in full-stack web development and web scraping and scripting automation and work with data
-- 🌱 I’m currently learning Phyton and full-stack web development
-- 💞️ I’m looking to collaborate on projects that involves web scraping and data gathering APIs  
+- 👀 I’m interested in creating modern-looking websites with straight-in-message delivery and developing clean and efficient in-code apps
+- 🌱 I’m currently interminate at Phyton and at the beginning of learning full-stack web development
+- 💞️ I’m currently looking to engage myself in community
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
