@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @husseingm73
 - 👀 I’m interested in creating modern-looking websites with straight-in-message delivery and developing clean and efficient in-code apps
-- 🌱 I’m currently interminate at Phyton and at the beginning of learning full-stack web development
+- 🌱 I’m currently intermediate at Phyton and at the beginning of learning full-stack web development
 - 💞️ I’m currently looking to engage myself in community
-- 📫 How to reach me: throught my work email husseingm73@gmail.com (specify your email subject, request, contribution, question, etc)
+- 📫 How to reach me: through my work email husseingm73@gmail.com (specify your email subject, request, contribution, question, etc)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
